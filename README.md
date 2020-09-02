@@ -10,9 +10,9 @@ To start the solution, it must be installed in your machine:
 - [.NET Framework 4.8](https://dotnet.microsoft.com/)
 - [Visual Studio 2019](https://visualstudio.microsoft.com/)
 
-### Third-Party Libraries
+## Third-Party Libraries
 
-Through the [Nuget](https://www.nuget.org/) package manager, you need to install the following dependencies:
+I used the following [Nuget](https://www.nuget.org/) packages:
 - [CsvHelper](https://joshclose.github.io/CsvHelper/) is a .NET library for reading and writing CSV files.
 - [Castle Windsor](http://www.castleproject.org/) is a mature Inversion of Control container available for .NET.
 
