@@ -1,6 +1,6 @@
 # CsvParser
 
-CsvParser is a simple console application that allows you to perform a search within a [comma-separated values (CSV)](https://en.wikipedia.org/wiki/Comma-separated_values) file.
+A simple console application that allows you to perform a search within a [comma-separated values (CSV)](https://en.wikipedia.org/wiki/Comma-separated_values) file.
 
 ## Prerequisites
 
