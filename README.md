@@ -41,4 +41,4 @@ In case of equal values, the application will return the first result found.
 
 ## License
 
-Licensed under the [GNU General Public License v3.0](LICENSE) license.
+Licensed under the [MIT](LICENSE) license.
